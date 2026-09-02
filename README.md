@@ -1,6 +1,6 @@
 # its.computer — releases
 
-**Every agent needs a computer. This is its.** Make software, content and the routines of a business in real apps, with an agent in an isolated Linux desktop, on your real files. Website: https://its.computer · Docs: https://its.computer/docs/
+**Every agent needs a computer. This is its.** Make software, content and the routines of a business in real apps and on real websites, with an agent in an isolated Linux desktop, on your real files. Website: https://its.computer · Docs: https://its.computer/docs/
 
 This repository is the public home for:
 
