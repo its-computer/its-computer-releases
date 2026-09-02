@@ -11,7 +11,6 @@ This repository is the public home for:
   ```
 
 - **Issues** — bug reports and feedback for the early builds.
-- **Site** — the source of https://its.computer lives in [`site/`](site/).
 
 The app's source code is in a private repository for now. Guest images are not stored here: the app downloads them on first run, and each release carries a `guest.json` manifest with the image URL, size and checksum.
 
