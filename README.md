@@ -1,13 +1,13 @@
 # its.computer — releases
 
-**A real computer for your AI agent.** Isolated, GPU-capable Linux desktops on your Mac, on your real files, driven over MCP. Website: https://its.computer
+**Every agent needs a computer. This is its.** Make software, content and the routines of a business in real apps, with an agent in an isolated Linux desktop, on your real files. Website: https://its.computer · Docs: https://its.computer/docs/
 
 This repository is the public home for:
 
 - **Releases** — signed, notarized builds of the macOS app (Apple silicon). Download the latest `.dmg` from [Releases](https://github.com/its-computer/its-computer-releases/releases), or install with Homebrew:
 
   ```bash
-  brew install its-computer/tap/computer
+  brew install --cask its-computer/tap/computer
   ```
 
 - **Issues** — bug reports and feedback for the early builds.
